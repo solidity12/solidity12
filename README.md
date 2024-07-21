@@ -4,7 +4,7 @@ I am MG12, a blockchain developer.
 
 ### Contact Me
 
-- Email: volibear1001@gmail.com
+- ![Email](https://img.shields.io/badge/Email-volibear1001@gmail.com-blue)
 
 ### Tech Stack
 
