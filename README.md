@@ -2,11 +2,6 @@
 
 I am MG12, a blockchain developer.
 
-### Contact Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:volibear1001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](<[your_portfolio_link](https://coconut-spring-d98.notion.site/MinGi-Kim-4e04272e735843e8ac8de989ff366d8f?pvs=4)>)
-
 ### Tech Stack
 
 - **Blockchain**: Solidity
